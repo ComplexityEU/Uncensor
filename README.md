@@ -14,7 +14,7 @@ You can extract it from any current version of the game. It is not included with
 
 ## How does it work?
 
-Very simple. It simply inserts an ASCII file-separator character (ASCII code 28, 0x1c) after the first letter of the filtered word. This ensures that it does not match client-sided filtering.
+Very simple. It simply inserts an ASCII unit-separator character (ASCII code 31, 0x1f) after the first letter of the filtered word. This ensures that it does not match client-sided filtering.
 
 ## Will it interfere with any swear-filter plugins I already have?
 
