@@ -1,6 +1,6 @@
 # Uncensor
 
-A plugin for PocketMine-MP to automatically bypass client-sided profanity filtering.
+A plugin for PocketMine-MP to automatically bypass client-sided profanity filtering. Original: https://github.com/dktapps-pm-pl/Uncensor
 
 ## How to use
 
